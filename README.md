@@ -1,5 +1,3 @@
-# Karthik
-About me:
 # Hi, I'm Karthik Kunnamkumarath 👋  
 **Aspiring Data Scientist & Machine Learning Engineer**  
 Toronto, Canada 
