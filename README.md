@@ -1,101 +1,57 @@
-# Hi, I'm Karthik 👋  
-**Aspiring Data Scientist & Machine Learning Engineer**  
-Toronto, Canada 
+# Hi there, I'm Karthik! 👋
+### Aerospace Engineer turned Data Scientist | PMP® & CSM® Certified
+*📍 Toronto, Ontario*
+
+I am a results-driven **AI Solutions Developer** with a background in Aerospace Engineering and Project Management. I bridge the gap between technical precision and business strategy, building Machine Learning models that solve real-world problems.
+
+Currently completing the **Applied AI Postgraduate Program** at George Brown College.
 
 ---
 
-## 🚀 About Me  
-I’m a motivated AI/ML professional with hands-on experience building machine learning models, data pipelines, and analytics projects using Python, Pandas, NumPy, and Scikit-learn.  
-With 5+ years of experience leading engineering and IT projects, I bring a blend of **technical depth**, **project management**, and **Agile delivery**, certified **PMP** & **CSM**
+## 🛠️ Technical Toolbox
 
-Currently completing my **Applied AI Postgraduate Program at George Brown College (2025–2026)**.
-
----
-
-## 🧠 Technical Skills  
-**Languages & Frameworks:** Python, Pandas, NumPy, Scikit-Learn, SQL, JavaScript, React, NodeJS  
-**Data Science:** Regression, Classification, Clustering, Feature Engineering, Cross-Validation  
-**Visualization:** Matplotlib, Seaborn, Power BI, Tableau  
-**Tools:** Jupyter Notebook, Git/GitHub, Jira, Trello, MS Project  
-**Other:** Agile/Scrum, CMMS (Maximo), Process Optimization  
+| **Domain** | **Technologies** |
+| :--- | :--- |
+| **Languages** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
+| **Data Science** | ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/-ScikitLearn-F7931E?style=flat&logo=scikit-learn&logoColor=white) ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white) |
+| **NLP** | ![Gensim](https://img.shields.io/badge/-Gensim-lightgrey?style=flat) ![NLTK](https://img.shields.io/badge/-NLTK-2e7d32?style=flat) ![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-black?style=flat) |
+| **Tools & Ops** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white) ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white) |
 
 ---
 
-## 📂 Featured Projects
+## 🏆 Featured Projects
 
-### 🔭 **Stellar Classification (SDSS Dataset)**  
-- Built ML models (Logistic Regression, Random Forest, SVM, SGD) to classify Stars, Galaxies & Quasars  
-- Achieved **97.6% accuracy** using tuned Random Forest  
-- Includes feature engineering and preprocessing steps  
+### 🕵️‍♂️ [Thief Detector: Computer Vision Security](Link to your Repo)
+* **Tech:** Python, OpenCV, Motion Detection
+* **Impact:** A real-time security system that detects intruders, draws bounding boxes, and auto-records evidence using webcam feeds.
 
+### 🌌 [Stellar Classification: Space AI](Link to your Repo)
+* **Tech:** Random Forest, GridSearch, Pandas
+* **Impact:** Classified 100,000 celestial objects from the SDSS dataset with **97.6% Accuracy**, distinguishing Stars, Galaxies, and Quasars.
 
+### 🎯 [AutoFeatureSelector: ML Tooling](Link to your Repo)
+* **Tech:** LightGBM, Pearson Corr, Chi-Square, RFE
+* **Impact:** An automated ensemble tool that runs 6 different feature selection algorithms simultaneously to identify the most robust predictors in any dataset.
 
----
-
-### 🏡 **Real Estate Price Prediction**  
-- Regression models predicting housing prices using location, size, trends  
-- Implemented Linear Regression, Decision Tree & Random Forest  
-- Includes EDA, visuals, and model comparison  
-
-
----
-
-### ❤️ **Health Risk Prediction Using ML**  
-- Built models to predict health risks from demographic & medical data  
-- Logistic Regression + ensemble techniques  
-- End-to-end pipeline from data cleaning → training → evaluation  
-
-
+### 💊 [Prescription Parser: Healthcare NLP](Link to your Repo)
+* **Tech:** CRF (Conditional Random Fields), NER
+* **Impact:** Converts unstructured medical prescriptions (strings) into structured data (Dosage, Frequency, Duration) for pharmacy automation.
 
 ---
 
-### 📊 **Feature Selection & Model Optimization**  
-- Benchmarked RFE, Chi-Square & PCA techniques  
-- Measured impact on performance and interpretability  
-
-
+## 📊 GitHub Stats
+![Karthik's GitHub stats](https://github-readme-stats.vercel.app/api?username=95karthik4&show_icons=true&theme=radical)
 
 ---
 
-## 📚 Upcoming Academic AI Projects (2025 Coursework)
-- CNNs for CIFAR-10 (TensorFlow)  
-- ML model for equipment failure prediction (>90% accuracy target)  
-- Big data system using PySpark & Hadoop  
-- Toronto energy consumption data analytics  
+## 💼 Professional Experience
+* **Maintenance Project Supervisor** @ Estée Lauder Companies (2022–Present)
+    * *Automated workflows reducing resolution time by 30%.*
+* **Project Manager** @ Sangeeth Builders (2017–2019)
+    * *Delivered $500K+ projects with 100% on-time completion.*
 
 ---
 
-## 💼 Professional Experience  
-### **Maintenance Project Supervisor – Estée Lauder (2022–Present)**  
-- Improved team velocity by 25% using Agile/Scrum  
-- Automated Jira & CMMS workflows (↓ 30% resolution time)  
-- Managed IT/engineering integrations reducing downtime by 40%  
-
-### **Project Manager – Sangeeth Builders (2017–2019)**  
-- Delivered $500K IT & construction projects on time  
-- Built digital inventory systems (↓ reporting delay by 50%)  
-- Trained 20+ staff on Jira & MS Project  
-
----
-
-## 🔗 Connect  
-**LinkedIn:** https://linkedin.com/in/4karthik95  
-**Email:** Aero13027@gmail.com  
-
----
-
-⭐ **Actively seeking AI/Data Science co-op or entry-level opportunities (2025).**
-<!--
-**95karthik4/95Karthik4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Let's Connect!
+* **LinkedIn:** [linkedin.com/in/4karthik95](https://linkedin.com/in/4karthik95)
+* **Email:** Aero13027@gmail.com
