@@ -2,7 +2,7 @@
 ### Aerospace Engineer turned Data Scientist | PMP® & CSM® Certified
 *📍 Toronto, Ontario*
 
-I am a results-driven **AI Solutions Developer** with a background in Aerospace Engineering and Project Management. I bridge the gap between technical precision and business strategy, building Machine Learning models that solve real-world problems.
+I am a results-driven **AI Solutions Developer** bridging the gap between technical precision and business strategy. With 5+ years of project management experience, I build Machine Learning models that solve real-world problems.
 
 Currently completing the **Applied AI Postgraduate Program** at George Brown College.
 
@@ -37,18 +37,33 @@ Currently completing the **Applied AI Postgraduate Program** at George Brown Col
 * **Tech:** CRF (Conditional Random Fields), NER
 * **Impact:** Converts unstructured medical prescriptions (strings) into structured data (Dosage, Frequency, Duration) for pharmacy automation.
 
----
+<details>
+<summary><b>🔽 Click to see More AI Projects (Recommenders, NLP, Data Viz)</b></summary>
 
-## 📊 GitHub Stats
-![Karthik's GitHub stats](https://github-readme-stats.vercel.app/api?username=95karthik4&show_icons=true&theme=radical)
+* **🎬 [Movie Recommender System](Link to your Repo):** Built 5 different engines (SVD, Content-Based, Hybrid) to predict user preferences, similar to Netflix/Spotify algorithms.
+* **📰 [News Topic Modeling](Link to your Repo):** Used Unsupervised Learning (LDA) to automatically cluster thousands of news articles into abstract topics.
+* **🦠 [Covid-19 & Happiness Analysis](Link to your Repo):** A data visualization project correlating infection rates with socio-economic factors like GDP and Social Support.
+
+</details>
 
 ---
 
 ## 💼 Professional Experience
-* **Maintenance Project Supervisor** @ Estée Lauder Companies (2022–Present)
-    * *Automated workflows reducing resolution time by 30%.*
-* **Project Manager** @ Sangeeth Builders (2017–2019)
-    * *Delivered $500K+ projects with 100% on-time completion.*
+
+**Maintenance Project Supervisor** @ Estée Lauder Companies (2022–Present)
+* Improved team velocity by **25%** using Agile/Scrum methodologies.
+* Automated Jira & CMMS workflows, reducing issue resolution time by **30%**.
+* Managed IT/engineering integrations, cutting system downtime by **40%**.
+
+**Project Manager** @ Sangeeth Builders (2017–2019)
+* Delivered **$500K+** IT & construction projects with 100% on-time completion.
+* Implemented digital inventory tracking, reducing reporting delays by **50%**.
+* Trained 20+ staff members on Jira & MS Project.
+
+---
+
+## 📊 GitHub Stats
+![Karthik's GitHub stats](https://github-readme-stats.vercel.app/api?username=95karthik4&show_icons=true&theme=radical)
 
 ---
 
