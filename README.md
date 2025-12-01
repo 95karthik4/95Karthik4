@@ -62,10 +62,6 @@ Currently completing the **Applied AI Postgraduate Program** at George Brown Col
 
 ---
 
-## 📊 GitHub Stats
-![Karthik's GitHub stats](https://github-readme-stats.vercel.app/api?username=95karthik4&show_icons=true&theme=radical)
-
----
 
 ### 📫 Let's Connect!
 * **LinkedIn:** [linkedin.com/in/4karthik95](https://linkedin.com/in/4karthik95)
