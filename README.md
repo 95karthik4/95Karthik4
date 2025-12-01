@@ -21,7 +21,7 @@ Currently completing the **Applied AI Postgraduate Program** at George Brown Col
 
 ## 🏆 Featured Projects
 
-### 🕵️‍♂️ [Thief Detector: Computer Vision Security](Link to your Repo)
+### 🕵️‍♂️ [Thief Detector: Computer Vision Security]([Link to your Repo)](https://github.com/95karthik4/Thief-Detector-)
 * **Tech:** Python, OpenCV, Motion Detection
 * **Impact:** A real-time security system that detects intruders, draws bounding boxes, and auto-records evidence using webcam feeds.
 
