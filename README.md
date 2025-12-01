@@ -21,28 +21,28 @@ Currently completing the **Applied AI Postgraduate Program** at George Brown Col
 
 ## 🏆 Featured Projects
 
-### 🕵️‍♂️ [Thief Detector: Computer Vision Security]([Link to your Repo)](https://github.com/95karthik4/Thief-Detector-)
+### 🕵️‍♂️ [Thief Detector: Computer Vision Security]([Repo Link)](https://github.com/95karthik4/Thief-Detector-)
 * **Tech:** Python, OpenCV, Motion Detection
 * **Impact:** A real-time security system that detects intruders, draws bounding boxes, and auto-records evidence using webcam feeds.
 
-### 🌌 [Stellar Classification: Space AI](Link to your Repo)
+### 🌌 [Stellar Classification: Space AI][(Repo Link)](https://github.com/95karthik4/Stellar-Classification)
 * **Tech:** Random Forest, GridSearch, Pandas
 * **Impact:** Classified 100,000 celestial objects from the SDSS dataset with **97.6% Accuracy**, distinguishing Stars, Galaxies, and Quasars.
 
-### 🎯 [AutoFeatureSelector: ML Tooling](Link to your Repo)
+### 🎯 [AutoFeatureSelector: ML Tooling][(Repo Link)](https://github.com/95karthik4/AutoFeatureSelector-Tool)
 * **Tech:** LightGBM, Pearson Corr, Chi-Square, RFE
 * **Impact:** An automated ensemble tool that runs 6 different feature selection algorithms simultaneously to identify the most robust predictors in any dataset.
 
-### 💊 [Prescription Parser: Healthcare NLP](Link to your Repo)
+### 💊 [Prescription Parser: Healthcare NLP][(Repo Link)](https://github.com/95karthik4/Create-a-Prescription-Parser-using-CRF)
 * **Tech:** CRF (Conditional Random Fields), NER
 * **Impact:** Converts unstructured medical prescriptions (strings) into structured data (Dosage, Frequency, Duration) for pharmacy automation.
 
 <details>
 <summary><b>🔽 Click to see More AI Projects (Recommenders, NLP, Data Viz)</b></summary>
 
-* **🎬 [Movie Recommender System](Link to your Repo):** Built 5 different engines (SVD, Content-Based, Hybrid) to predict user preferences, similar to Netflix/Spotify algorithms.
-* **📰 [News Topic Modeling](Link to your Repo):** Used Unsupervised Learning (LDA) to automatically cluster thousands of news articles into abstract topics.
-* **🦠 [Covid-19 & Happiness Analysis](Link to your Repo):** A data visualization project correlating infection rates with socio-economic factors like GDP and Social Support.
+* **🎬 [Movie Recommender System][(Link to Repo)](https://github.com/95karthik4/Movie-Recommender-):** Built 5 different engines (SVD, Content-Based, Hybrid) to predict user preferences, similar to Netflix/Spotify algorithms.
+* **📰 [News Topic Modeling][(Link to Repo)](https://github.com/95karthik4/News-Modelling-):** Used Unsupervised Learning (LDA) to automatically cluster thousands of news articles into abstract topics.
+* **🦠 [Covid-19 & Happiness Analysis][(Link to Repo)](https://github.com/95karthik4/Pandas-Covid-Data-Analysis):** A data visualization project correlating infection rates with socio-economic factors like GDP and Social Support.
 
 </details>
 
